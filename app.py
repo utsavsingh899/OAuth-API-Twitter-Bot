@@ -45,7 +45,7 @@ def reply_tweets():
         mention.user.follow()
         print('User Followed')
         time.sleep(5)
-        mention.retweet(5)
+        mention.retweet()
         print('Mention Retweeted!')
         time.sleep(5)
         last_id = mention.id
