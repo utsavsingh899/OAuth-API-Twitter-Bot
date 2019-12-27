@@ -45,6 +45,9 @@ def reply_tweets():
         mention.user.follow()
         print('User Followed')
         time.sleep(5)
+        mention.retweet(5)
+        print('Mention Retweeted!')
+        time.sleep(5)
         last_id = mention.id
         store_last_id(last_id, FILE_NAME)
         time.sleep(5)
