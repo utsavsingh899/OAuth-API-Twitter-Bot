@@ -44,5 +44,5 @@ It can be used to do the following activities:
 
 ### Contact Me:
 * [Email](mailto:utsavsingh899@gmail.com)
-* [Instagram](https://www.instagram.com/us_codes/)
+* [Instagram](https://www.instagram.com/utsavsingh899/)
 * [Facebook](https://www.facebook.com/utsav.singh.581)
